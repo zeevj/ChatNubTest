@@ -1,0 +1,18 @@
+{
+  "name": "ChatNubTest",
+  "version": "0.0.0",
+  "homepage": "https://github.com/zeevj/ChatNubTest",
+  "authors": [
+    "Zeev Jelinek <mushmu@gmail.com>"
+  ],
+  "description": "check pub nub",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
